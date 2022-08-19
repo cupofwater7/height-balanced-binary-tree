@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # height-balanced-binary-tree
 
+Difficulty: medium
 
   You're given the root node of a Binary Tree. Write a function that returns
   true if this Binary Tree is height balanced and false if it isn't. A Binary Tree is height balanced if for each node in the tree, the difference
